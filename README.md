@@ -12,6 +12,6 @@ Python 3.12.x Examples of UTC Date and UTC Date/Time,
 
 ## Change History
 
-| Date       | Description                                                                        |
-|:-----------|:-----------------------------------------------------------------------------------|
-| 2024-10-02 | Initial creation                                                                   |
+| Date       | Description                                     |
+|:-----------|:------------------------------------------------|
+| 2024-10-02 | Initial creation, including mirroring on GitLab |
