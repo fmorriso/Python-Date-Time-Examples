@@ -14,8 +14,6 @@ def main():
     print(f'{utc_just_date = }')
 
 
-
 if __name__ == '__main__':
     print(f'Python version {get_python_version()}')
     main()
-
