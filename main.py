@@ -13,6 +13,8 @@ def main():
     utc_just_date = datetime.now(timezone.utc).date()
     print(f'{utc_just_date = }')
 
+    print(f'UTC  year: {utc_just_date.year}, month: {utc_just_date.month}, day: {utc_just_date.day}')
+
 
 if __name__ == '__main__':
     print(f'Python version {get_python_version()}')
